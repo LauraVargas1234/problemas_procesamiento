@@ -15,3 +15,4 @@ Para la compracion use el comndo: " py comparacion.py" podra ver la comparacion 
 - resultados_sin_control.csv = simulacion sin control
 - resultados_con_control.csv = simulacion con control
 ![image](https://github.com/user-attachments/assets/5e3c7ad8-bb3c-499e-96b4-a799d4442d20)
+Nota: Recuerde usar el comando que tenga tenga configurado para la ejecucion de python ( py, python, etc)
